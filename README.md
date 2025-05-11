@@ -67,6 +67,81 @@ const anmol = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%209%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 23.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 23 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 22 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6477 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+🌆 Daytime                21696 commits       ██████████████████░░░░░░░   72.44 % 
+🌃 Evening                1778 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   5277 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Tuesday                  7405 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Wednesday                5143 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Thursday                 5684 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Friday                   6271 commits        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Saturday                 116 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Sunday                   55 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kathmandu
+
+💬 Programming Languages: 
+JavaScript               45 mins             ████████████░░░░░░░░░░░░░   49.51 % 
+JSON                     43 mins             ████████████░░░░░░░░░░░░░   47.55 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+
+🔥 Editors: 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+npx_card                 1 hr 32 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    1 hr 32 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/aashish-moktan/aashish-moktan/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/05/2025 06:55:16 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
