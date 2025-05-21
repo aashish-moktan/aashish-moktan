@@ -32,7 +32,7 @@ npx aashish
 ```javascript
 const aashish = {
   pronouns: "He" | "Him",
-  code: ["TypeScript", "Javascript", "Python"],
+  code: ["TypeScript", "Javascript"],
   askMeAbout: ["web dev", "software engineering", "dev ops", "tech trends"],
   technologies: {
     frontEnd: {
@@ -41,8 +41,7 @@ const aashish = {
       uiLibraries: ["Material UI", "Ant Design"],
     },
     backEnd: {
-      js: ["Node", "Express"],
-      python: ["Flask"],
+      js: ["Node", "Express"]
     },
     devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
     cloudServices: {
