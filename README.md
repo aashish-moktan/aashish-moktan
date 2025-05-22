@@ -66,13 +66,13 @@ const aashish = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2046%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 23.8 kB Used in GitHub's Storage 
- > 
-> 🏆 151 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -80,6 +80,53 @@ const aashish = {
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                6600 commits        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+🌆 Daytime                22006 commits       ██████████████████░░░░░░░   72.34 % 
+🌃 Evening                1814 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   5357 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Tuesday                  7519 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Wednesday                5226 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Thursday                 5783 commits        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Friday                   6362 commits        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Saturday                 118 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Sunday                   56 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kathmandu
+
+💬 Programming Languages: 
+TypeScript               24 hrs 41 mins      ███████████████████░░░░░░   75.01 % 
+JavaScript               4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+JSON                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+TSConfig                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+
+🔥 Editors: 
+VS Code                  32 hrs 54 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+smart-login-system       15 hrs 9 mins       ████████████░░░░░░░░░░░░░   46.06 % 
+realtime-chat-app        11 hrs 37 mins      █████████░░░░░░░░░░░░░░░░   35.33 % 
+answerhub-etl-api        3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+RealtimeMessenger        2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Funsocialtab             27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+
+💻 Operating System: 
+Linux                    32 hrs 54 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -97,7 +144,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aashish-moktan/aashish-moktan/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:58:36 UTC
+ Last Updated on 22/05/2025 16:25:55 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
