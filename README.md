@@ -66,13 +66,15 @@ const aashish = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 23.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 153 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -83,18 +85,18 @@ const aashish = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6600 commits        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-🌆 Daytime                22006 commits       ██████████████████░░░░░░░   72.34 % 
-🌃 Evening                1814 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+🌞 Morning                6600 commits        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+🌆 Daytime                22006 commits       ██████████████████░░░░░░░   72.33 % 
+🌃 Evening                1816 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   5357 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Tuesday                  7519 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Tuesday                  7519 commits        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
 Wednesday                5226 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Thursday                 5783 commits        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Thursday                 5785 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
 Friday                   6362 commits        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
 Saturday                 118 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Sunday                   56 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
@@ -144,7 +146,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aashish-moktan/aashish-moktan/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2025 16:25:55 UTC
+ Last Updated on 22/05/2025 18:58:30 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
